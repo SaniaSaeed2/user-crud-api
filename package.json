@@ -1,0 +1,20 @@
+{
+  "name": "user-crud-api",
+  "version": "1.0.0",
+  "description": "CRUD REST API with MongoDB and Mongoose - DecodeLabs Project 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.7.4",
+    "nodemon": "^3.1.14"
+  },
+  "type": "module"
+}
