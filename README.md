@@ -31,7 +31,7 @@ This project connects a REST API to MongoDB using Mongoose as the ORM. It implem
 **Prerequisites:** Node.js v16+, and a running MongoDB instance (local or Atlas)
 
 ```bash
-git clone https://github.com/<your-username>/user-crud-api.git
+git clone https://github.com/SaniaSaeed2/user-crud-api.git
 cd user-crud-api
 npm install
 ```
