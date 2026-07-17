@@ -36,7 +36,7 @@ cd user-crud-api
 npm install
 ```
 
-Create a `.env` file (copy `.env.example`) and set:
+Create a `.env` file  and set:
 
 ```
 MONGO_URI=mongodb://localhost:27017/user-crud-api
