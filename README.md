@@ -75,27 +75,27 @@ Server runs at `http://localhost:5000`
 
 **Root endpoint**
 
-![Root endpoint](./screenshots/root-endpoint.png)
+![Root endpoint](./Screenshots/root-endpoint.png)
 
 **Create user (POST)**
 
-![POST success](./screenshots/post-success.png)
+![POST success](./Screenshots/post-success.png)
 
 **Duplicate email prevention**
 
-![Duplicate error](./screenshots/duplicate-error.png)
+![Duplicate error](./Screenshots/duplicate-error.png)
 
 **Validation error**
 
-![Validation error](./screenshots/validation-error.png)
+![Validation error](./Screenshots/validation-error.png)
 
 **Get all users**
 
-![Get all users](./screenshots/get-all-users.png)
+![Get all users](./Screenshots/get-all-users.png)
 
 **Update user (PUT)**
 
-![Update user](./screenshots/update-user.png)
+![Update user](./Screenshots/update-user.png)
 
 ## Error Handling
 
